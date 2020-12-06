@@ -28,9 +28,9 @@ In order to get this package working you will need to **install it via pip** (wi
 
 ``$ pip install investpy``
 
-Additionally, **if you want to use the latest investpy version instead of the stable one**, you can just use the following command:
+Additionally, **if you want to use this forked investpy version instead of the original one**, you can just use the following command:
 
-``$ pip install git+https://github.com/alvarobartt/investpy.git@developer``
+``$ pip install git+https://github.com/fmanno/investpy.git``
 
 **The developer branch ensures the user that the most updated version will always be working and fully operative** so as not to wait until the stable release on the master branch comes out (which eventually may take some time depending on the amount of issues to solve).
 

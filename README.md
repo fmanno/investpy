@@ -150,7 +150,7 @@ When citing this repository on your publications please use the following **BibT
     year = {2018-2020},
     publisher = {GitHub},
     journal = {GitHub Repository},
-    howpublished = {\url{https://github.com/alvarobartt/investpy}},
+    howpublished = {\url{https://github.com/fmanno/investpy}},
 }
 ```
 

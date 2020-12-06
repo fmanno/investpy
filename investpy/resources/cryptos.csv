@@ -1,4 +1,5 @@
 name,tag,symbol,id,currency,status
+Uniswap,uniswap,UNI,1167226,USD,available
 Bitcoin,bitcoin,BTC,1057391,USD,available
 Ethereum,ethereum,ETH,1061443,USD,available
 XRP,ripple,XRP,1057392,USD,available
